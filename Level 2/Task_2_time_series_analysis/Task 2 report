@@ -1,0 +1,29 @@
+# Time Series Analysis Report
+
+## Objective
+
+Analyze stock prices over time to detect trends and seasonality.
+
+## Dataset
+
+Apple (AAPL) stock data extracted from the Stock Prices Data Set.
+
+## Methodology
+
+- Data preprocessing
+- Date conversion
+- Time series visualization
+- Seasonal decomposition
+- Moving average smoothing
+
+## Results
+
+Three visualizations were created:
+
+- Time Series Plot
+- Seasonal Decomposition
+- 30-Day Moving Average
+
+## Conclusion
+
+The analysis highlights long-term market trends while smoothing short-term fluctuations. Seasonal decomposition separates the observed data into trend, seasonal, and residual components for better interpretation.
