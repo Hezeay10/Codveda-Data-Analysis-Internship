@@ -53,4 +53,4 @@ F1-score
 
 ## Conclusion
 
-The Decision Tree model achieved the best overall balance for customer churn prediction and was selected as the preferred classifier.
+Three machine learning models were developed to predict customer churn: Logistic Regression, Decision Tree, and Random Forest. Model performance was evaluated using Accuracy, Precision, Recall, and F1-score. The Decision Tree classifier produced the best balance between precision and recall, achieving an accuracy of approximately 92.5% with an F1-score of 0.69. Hyperparameter tuning was performed using GridSearchCV to optimize the Decision Tree model. Feature importance analysis showed that Total Day Minutes, Customer Service Calls, and Total Day Charge were the most influential predictors of customer churn. Overall, the Decision Tree model was selected as the most suitable classifier for this dataset.
